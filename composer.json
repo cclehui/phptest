@@ -1,0 +1,15 @@
+{
+    "name": "cclehui/phptest",
+    "description": "cclehui_php_test",
+    "type": "library",
+
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }   
+    },  
+
+    "require": {
+    }   
+}
